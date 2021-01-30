@@ -1,0 +1,311 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 100%;
+    float: left;
+    background: rgb(32, 151, 248);
+    height: 500px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+form {
+    background: white;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.container h1 {
+    padding-left: 0px;
+}
+
+.img-icons {
+    width: 50%;
+    padding-top: 20px;
+    margin:0 auto;
+}
+.instagram {
+    width: 10%; 
+    margin-left: 6px; 
+}
+
+.instagram:hover {
+   
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border-radius: 7px;
+}
+.telegram {
+    width: 10%;
+    margin-left: 6px;
+}
+.telegram:hover {
+    
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border-radius: 7px;
+}
+.twitter {
+    width: 10%;
+    margin-left: 6px;
+}
+.twitter:hover {
+   
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border-radius: 7px;
+}
+.you-tube {
+    width: 10%;
+    margin-left: 6px;
+}
+.you-tube:hover {
+   
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border-radius: 7px;
+}
+.lorem {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17px;
+    
+}
+.malumot {
+    width: 70%;
+    height:905px;
+    margin: 0 auto;
+
+}
+.malumot-info {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+}
+
+.manbalar a:hover {
+    color: crimson;
+}
+.lorem a {
+    color: blue;
+}
+.lorem a:hover {
+    color: crimson;
+}
+.orqa-fon{
+    width: 100%;
+    background-image: url(./images/photo.jpeg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    height: 580px;  
+    
+}
+
+.matn-info {
+    text-align: center;
+    color:black;
+    padding-top: 13px;
+}
+.matn  {
+   
+    list-style: none;
+    width: 60%;
+    margin: 45px auto;
+    font-size: 20px;
+    background: white;
+    color:black;
+    border-radius: 5px;
+    height: 500px; 
+    opacity:0.7 ;
+   
+   
+}
+
+.matn li {
+    padding-top: 20px;
+}
+.manbalar {
+    width: 100%;
+    float: left;
+   padding-left: 480px;
+  
+}
+.manbalar h2 {
+    padding-left: 100px;
+    font-family: cursive;
+}
+.havola {
+    width:80%;
+    float: left;
+    padding-right: 300px;
+    padding-left: 20px;
+}
+ 
+.manbalar-info {
+   width: 100%;
+   float: left;
+   padding-left: 50px;
+}
+.webdesign {
+    width: 15%;
+    float: left;
+    
+}
+.webdesign a {
+    text-decoration: none;
+    color: blue;
+}
+.derekbanas {
+    width: 15%;
+    float: left;
+    padding-left: 10px;
+}
+.derekbanas a {
+    text-decoration: none;
+    color: blue;
+}
+.wes-bos {
+    width: 15%;
+    float: left;
+    padding-left: 10px;
+}
+.wes-bos a {
+    text-decoration: none;
+    color: blue;
+}
+.academind {
+    width: 15%;
+    float: left;
+    padding-left: 10px;
+}
+.academind a {
+    text-decoration: none;
+    color: blue;
+}
+.banner-top {
+    padding-top: 50px;
+}
+.havola-home {
+    width:50% ;
+    float: left;
+    padding-left: 20px;
+    
+}
+.havola-home a {
+    color: blue;
+}
+
+.video-img {
+    background-image: url(./images/photo3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    float: left;
+    padding-top: 40px;
+    margin-top: 35px;
+
+}
+.video-info {
+    width: 100%;
+    height: 300px;
+    
+    margin: 0 auto;
+}
+
+.input-qism {
+    width: 100%;
+    float: left;
+    background-color: rgb(24, 149, 252);
+    height: 600px;
+}
+
+.banner {
+    width: 100%;
+    float: left; 
+}
+.input-qism h2 {
+    text-align: center;
+    padding-top: 25px;
+}
+.input-qism p {
+    text-align: center;
+}
+.banner h4 {
+    color: black;
+    padding-left: 70px;
+}
+.home {
+    width: 60%;
+    padding-top: 30px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.input-qism p {
+    color: white;
+}
+.input-qism h2 {
+    color: white;
+}
+.footer {
+    width: 100%;
+    float: left;
+}
+.footer a {
+    color: blue;
+}
+.footer a:hover {
+    color: crimson;
+}
+.main-footer {
+    width: 30%;
+    float: left;
+    padding-left: 80px;
+}
+.sahifa {
+    width: 30%;
+    float: left;
+    padding-left: 80px;
+}
+.kontaktlar {
+    width: 30%;
+    float: left;
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
